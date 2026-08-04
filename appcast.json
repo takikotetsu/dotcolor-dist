@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "・BoxIO DUALモード対応（1台を2ch分割して別々にグレーディング）\n・デバイスへ恒久保存（Store to Device / 電源投入時に読み出される）\n・アプリ内自動アップデート（この通知）\n・Cam LUT 実LUT対応（Sony/ARRI/RED/Canon/Panasonic/Apple）\n・Color Temp ノード（メーター整合WB）\n・プロジェクトライブラリ（自動保存・過去プロジェクト一覧）",
-  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.1.0/dotcolor-1.1.0.dmg"
+  "version": "1.2.0",
+  "notes": "・TVLogic IS-mini 対応（USB接続・外部ドライバ/SDK不要のネイティブ実装）\n・前回終了時のデバイスへ起動時に自動接続\n・IS-mini選択時はIP欄を非表示（USB表示）\n・ステータス表示が接続機種を正しく反映\n・Store to Device をステータスバーに集約",
+  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.0/dotcolor-1.2.0.dmg"
 }
