@@ -1,5 +1,5 @@
 {
-  "version": "1.2.2",
-  "notes": "・【重要】この更新中に画面が固まったように見えたら、強制終了して開き直してください。更新自体は完了しています（次回以降の更新では起きません）\n・アプリ内アップデートが完了せず固まる不具合を修正",
-  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.2/dotcolor-1.2.2.dmg"
+  "version": "1.2.3",
+  "notes": "・起動時に前回のチャンネル構成とデバイス設定が復元されない不具合を修正（BoxIO の Ch 設定・追加したチャンネル・チャンネルごとの IP）\n・【v1.2.1 以前からの更新のみ】この更新中に画面が固まったように見えたら、強制終了して開き直してください。更新自体は完了しています",
+  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.3/dotcolor-1.2.3.dmg"
 }
