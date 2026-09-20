@@ -1,5 +1,5 @@
 {
-  "version": "1.2.3",
-  "notes": "・起動時に前回のチャンネル構成とデバイス設定が復元されない不具合を修正（BoxIO の Ch 設定・追加したチャンネル・チャンネルごとの IP）\n・【v1.2.1 以前からの更新のみ】この更新中に画面が固まったように見えたら、強制終了して開き直してください。更新自体は完了しています",
-  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.3/dotcolor-1.2.3.dmg"
+  "version": "1.2.4",
+  "notes": "・Tangent Element の A / B ボタンで Bypass を切り替えられるようにしました（どちらもトグル）\n・A/B が反応しない場合は Tangent Hub の再起動が必要です。パネルの液晶が起動画面に戻るので、電源を入れ直してください",
+  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.4/dotcolor-1.2.4.dmg"
 }
