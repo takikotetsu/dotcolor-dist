@@ -1,5 +1,5 @@
 {
-  "version": "1.2.5",
-  "notes": "・Log ノードを追加しました。最暗部とハイライトだけを狙って触れます（Resolve の Log wheels 相当。Low/High Range で効く輝度域を絞れます）\n・N キーで選択中のノードだけを ON/OFF できるようにしました\n・起動時に一瞬メインウィンドウが見えてからスプラッシュが出る不具合を修正\n※ Log ノードは既存プロジェクトには自動で入りません。ノードの間の「＋」から追加してください\n※ v1.2.1 以前からの更新のみ、更新中に画面が固まったように見えたら強制終了して開き直してください（更新自体は完了しています）",
-  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.5/dotcolor-1.2.5.dmg"
+  "version": "1.2.6",
+  "notes": "・v1.2.5 で、起動した直後にクラッシュする不具合を修正しました\n※ v1.2.5 が開けなくなった方へ: アプリが起動しないため自動更新が使えません。このページの dotcolor-1.2.6.dmg を手でダウンロードして、Applications へ入れ直してください\n※ 原因は v1.2.5 で追加した Log ノードです。v1.2.5 より前に保存したプロジェクトを最後に開いていた場合に起きていました。作業中のデータに影響はありません",
+  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.6/dotcolor-1.2.6.dmg"
 }
