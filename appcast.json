@@ -1,5 +1,5 @@
 {
-  "version": "1.2.6",
-  "notes": "・v1.2.5 で、起動した直後にクラッシュする不具合を修正しました\n※ v1.2.5 が開けなくなった方へ: アプリが起動しないため自動更新が使えません。このページの dotcolor-1.2.6.dmg を手でダウンロードして、Applications へ入れ直してください\n※ 原因は v1.2.5 で追加した Log ノードです。v1.2.5 より前に保存したプロジェクトを最後に開いていた場合に起きていました。作業中のデータに影響はありません",
-  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.6/dotcolor-1.2.6.dmg"
+  "version": "1.2.7",
+  "notes": "・HSL カーブの色相軸（Hue × Hue / Hue × Sat / Hue × Lum）で、左右の端が繋がるようにしました\n　色相は輪なので左端と右端は同じ赤です。これまでは片方だけ動かせてしまい、赤のところで調整が途切れていました\n※ 赤まわりを触った Look は、焼き上がりがわずかに変わる場合があります（意図しない段差が消える方向です）",
+  "url": "https://github.com/takikotetsu/dotcolor-dist/releases/download/v1.2.7/dotcolor-1.2.7.dmg"
 }
